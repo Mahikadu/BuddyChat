@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\79f25938ad5e645966d101c6276609b92ea64030\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_36a68971d931b480922b6d7076daef1a03324433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5c3a4094ce2c506ed8902eb34c4a128714bad8ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_b28e3b087891e45422c238b47ccf4b134625420e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\50f0d4963d192bad8a705f68956cf2c984f5291e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_04d2231fa44876765025917d0a714a1ebee43de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\1cc84182d3d7574e93efd5b03937b8f881e0de66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_be5ba55097fe0837ca6af658d91792aa1f1d09d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6e3a4d733d6e3a95521cbcfaca077d1d1d79f027\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_ddc7b0f86b4e0267bbac93f9c2ac68c765e7f305\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\gson-2.4_92ed388f6723280d35025875f026e7755deffda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\c9972393c5cf77385362d7ddeec77ce2839ea048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_0507ec2bdfd75dfb07df4f0a9ec2ad587242bf57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\11240d3bb56eac40a9effc03dcfc7f5d9892a88e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_6f2d7e5deb22a4b1deb23677be38676c39af0bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2653f1f61f00eb9f39f1987464b89ce1a1fae039\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_d4336a3a9d3af75aa02fe5b463353793b725b071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\ab97dc051b33452f7c2d0388d78943353bd946db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_d35a514edae6b82cb66a41219f03a3e9ebd1f9e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\4e7e1d3c41c8c5b174d68f28fd4fa61874f34ac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_5d3de831cca247d22d82d9ded2d4b062b7a6171f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\dcd369693c2faca92dc216475571ef0d77caba5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_0c6a45a6763d578bd53ca6bb4221ba9ece6f90d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\02af0401127793adb3a54b10fa956c40bd6cc716\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_0fb63bac681831ea3ab656a4bc1bcea1e2780331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\3b55f30f47bdfadc75a249d8f9c2492156114d62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_aad3c4640c64274f56ea8f2c4341e6040fd6d9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\0d61800cd999528a478353b29ead4ae40d8e9b06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_8ee09349cd4700be4201f5406457dbc87bf20c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\20cbcc702bbcb0757033f368c3c693254df15d9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_721d15318fb12f19bdd0b592db9e3b7d4b2c9f04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\fc06d50563863a5b5d310d9f67b21b873a4bb594\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_c1058b66cf38e334daa501efb807d8a9ec86dcec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e774a64991399453aebc73b51cb771403c035664\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_b1035ea7359fdbbd6b88cbc67f93176637a627f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\290507219ace57fab8990c4a3e4e50e156ce19d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_baca9fe35977d62dd7f0a26ea7f38a733b2e1d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2a0fc938ff66b695707c52f207142c84f0e33349\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_4687b83a31b6f6941682373c025e167b9e72269c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\71e285db011491f1feeee5ddb29451298c412158\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_93997c41309b32dd5fcf6658e4f3e014abb791b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7a80fb15c48519939748e6e1de2b60c11d408c19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e52486e641a957eea774a6ee6f3b6024a9ef7942\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\4e1362a3b41bb446a99399c3192704cb15ebb783\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_20fad23028b00ff54f45e6a279512b675a37e1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\9fd7cb4008c21138997beeb74f3f65636e2d3e10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_7e4a8af89967f8baa1b16b6d4cad2ab3a78d8b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\28330861b08d55a0272be0b7702fd227df646972\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_dc89ec649c514f6fffaea4089a7072bbeb8d7c26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b5b62087740cd196e3e80d4c50991ea10fa355a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_9cf0e56506c89a11475f9b1a00e5e0c733322f23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2704452c0a86c708442f62f4f8b56d020ff5b201\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_b00f0453d17f9226dd7c4fdcfadf631a36324ce4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\10f0133afc2f701082d0d99ec6b28da54b6852c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ed43456611719e1b8b943749cff7c214e1f1c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\174d59c71104211f3c65e619f237e2cd00939b3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_5fe94d436745e183609eaf7b52509f17e606ceb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\afa719300c48a140080316e96ea7891f749cde2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_dbcada96a6b4f709d91359c59eb8b68ed480494f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\44ac15fa685ad3b297482881c38a59cf7bc68924\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_59ca3e84bb4e5424cf3c66e9438d62eb57d8085d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\5c5f05e0fc70ce7098f4ef56daa2bbf34af73c35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4b2c9f8a8cf6a99837eeddf26fd449398e0f983\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\7a80fb15c48519939748e6e1de2b60c11d408c19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_e52486e641a957eea774a6ee6f3b6024a9ef7942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5c5f05e0fc70ce7098f4ef56daa2bbf34af73c35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_d4b2c9f8a8cf6a99837eeddf26fd449398e0f983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_1906496608af00682d8b727a088bfc73d5e26f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\11911a40a7a26774fea7a31ba2a1951198f9cbe0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_722fab169e7c6f89bff9495312ab4c32857baa0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b78c828c7b133482111e8b0455ad8b6f8edb5f80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_d97622b9835faa8963de1ee8069fcaa54d4369d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.buddy\androidsdk\3.0.6\900f3482b9196d7cafc748e731d1837d76707ae1\androidsdk-3.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900f3482b9196d7cafc748e731d1837d76707ae1">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\androidsdk-3.0.6_26f283a744268e70c9da99e36f85a2aa00a35607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d6dfbec7602c3983e2ae2cd055fd32d17d488e80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_f6366abeb43bad6e32b8f23f1dead96ec5dfe452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\80f4e7d3f608a7de3fdbf7a498b683e573b7b408\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_892270a99f5c3321935ad186b6fac4a70a98b3a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\96d77c2de09e1e53aca724c457e706d23397e9df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_d78577bbbe96e22461a24150fdbf04d1112212c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d621caf5b722252ead55084fdde70d5d3d123f2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_0aa2ec94baddeefd63664dc54cd402884b832291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\748edf01a1c052e5cb61f7bd12f33b08597556e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_1628e7fd5e574af34e0ba75ebcda2b25bad461b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\bc631b1f15e311991984bfb2134b6f251f8cc495\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_98238a16a68586072b63d0dd70617bf6ff569be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\79892450b17aca2eec9879b767fb5dc00834a870\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_e066810ec9d9db7abab03ce62dacb7d480f3d3af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\1d65bb0421cfa6d242d3f860d61d9d589cfec834\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_9d03acf578178ba31bede8ff92c2a12e8da9a3c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5c5d49c072e2f7cf5c1c63b55e2a3aaed4323159\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_0569d793fc7fd10e1dd92aa5e5a171eab6f43ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\9bcf3b919ac5108672ae208db0783d484365f522\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_c5ef7a97d8eea76c24b36cbf391c101ae9a03ef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2714297086cc7d6567c7a0e987a82ad68c9fe6bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_015a728d13540c6b51a56887a6278c7a05331d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\19f47654b6b3c2b084672922ab8a6f2e0392bd44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_57cb82998a0a9516c15c22acd992b87749c5e35e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\fc2f29c6e77958abd6a203b7db8d84c0361b7444\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_2f6b6210a4cbdeca627ec4443d339bc221c90165.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\5079892cabc53e6dbd36d4615b7408383cb882d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33c345dd51e9b96fe6a2cef2a32f02924127a57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6e3a4d733d6e3a95521cbcfaca077d1d1d79f027\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97ddae88e5cc4c830f2e0b4c2d670165f0bf492b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b3f22eb66d1c0cd699e4723bbafcc004ccd2627e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\pre-dexed\debug\classes_4e3bce22f199df2122397f9e9ee2fd08156eefcb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio3.0\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\workspace\Buddy-Android-SDK\samples\BuddyChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_80e728e822fc1cf3b7d3edd6c785aa34dbf5da21\classes.dex" />
+    </item>
+
+</items>
